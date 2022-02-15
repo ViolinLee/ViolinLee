@@ -1,7 +1,9 @@
 ### Hi there 👋
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=ViolinLee&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ViolinLee&layout=compact)
+![](https://visitor-badge.glitch.me/badge?page_id=ViolinLee)
+- 🔭 热爱 Robotics&Vision 的算法工程师，欢迎关注~
+- 🌱 Python、C++ 机器人项目持续输出ing
+- 🌈 BiliBili：https://space.bilibili.com/85652131
+![Github stats](https://github-readme-stats.vercel.app/api?username=ViolinLee&theme=highcontrast&show_icons=true&count_private=true
 
 
 <!--
