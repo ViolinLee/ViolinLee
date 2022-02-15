@@ -4,7 +4,9 @@
 - 🌱 Python、C++ 机器人项目持续输出ing
 - 🌈 BiliBili：https://space.bilibili.com/85652131   
 
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ViolinLee&theme=highcontrast&show_icons=true&count_private=true)
+-->
 
 <!--
 **ViolinLee/ViolinLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
