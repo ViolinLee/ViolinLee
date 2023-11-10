@@ -1,8 +1,9 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=ViolinLee)
-- 🔭 热爱 Robotics&Vision 的算法工程师，欢迎关注~
-- 🌱 Python、C++ 机器人项目持续输出ing
-- 🌈 BiliBili：https://space.bilibili.com/85652131
+- 💻 热爱 Robotics&Vision 的算法工程师，欢迎关注~
+- ⏳ Python、C++ 机器人项目持续输出ing
+- 📺 BiliBili：https://space.bilibili.com/85652131
+- 🌏 Website：https://roboticscv.com/
 - 💬 公众号：RoboticsCV
 
 <!--
